@@ -44,7 +44,7 @@ this-test:
 
 
 
-## Fork
+## Fork ( not used anymore, but left here in case we need to build a fork again to work around a problem)
 LIB=github.com/go-flutter-desktop/hover
 LIB_FSPATH=$(GOPATH)/src/$(LIB)
 LIB_BRANCH=darwin-bundle/icns-improvement
